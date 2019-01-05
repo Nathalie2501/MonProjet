@@ -81,7 +81,7 @@ echo $_POST['message'];
 <html>
 <head>	   
 
-    <title>Mini-chat</title>
+    <title>Minichat</title>
     <link type="text/css" rel="stylesheet"
         media="all" href="css/style"/>
 
