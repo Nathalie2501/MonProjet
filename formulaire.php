@@ -92,7 +92,7 @@ echo $_POST['message'];
 </head>
 
 <body>
-    <h1>Votre avis nous interesse</h1>
+    <h1>Votre avis nous intéresse</h1>
     <div class="error">
     <div id="topbar">
         <div class="content">
