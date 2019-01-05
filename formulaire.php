@@ -113,7 +113,7 @@ Votre pseudo : <input type="text" name="pseudo" /><br />
 Votre message : <input type="text" name="message" /><br />
 <input type="submit" value="Envoyer" />
                         
-
+Votre email : <input type="text" name="email" /><br/>
 
 
                         
